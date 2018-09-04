@@ -1,0 +1,23 @@
+{
+  "name": "slido-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhanlee/slido-fetch.git"
+  },
+  "author": "suhan lee <suhan.lee.k@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhanlee/slido-fetch/issues"
+  },
+  "homepage": "https://github.com/suhanlee/slido-fetch#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "node-fetch": "^2.2.0"
+  }
+}
