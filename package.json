@@ -18,6 +18,6 @@
   "homepage": "https://github.com/suhanlee/slido-fetch#readme",
   "dependencies": {
     "fs-extra": "^7.0.0",
-    "node-fetch": "^2.2.0"
+    "node-fetch": "^2.6.7"
   }
 }
